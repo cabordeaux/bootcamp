@@ -101,7 +101,7 @@ A table represents tabular data, think of a simple spreadsheet.
     <tr>
       <td>div</td>
       <td>block</td>
-      <tdh>none</td>
+      <td>none</td>
     </tr>
     <tr>
       <td>span</td>
